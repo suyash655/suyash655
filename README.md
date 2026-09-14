@@ -6,7 +6,7 @@ Building systems at the intersection of ML, infra, and applied AI
 
 <p align="center">
   <a href="https://github.com/suyash655?tab=repositories"><img src="https://img.shields.io/badge/Repos-7-blue?style=flat-square" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Contact-Email-informational?style=flat-square" /></a>
+  <a href="suyashjay234@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-informational?style=flat-square" /></a>
 </p>
 
 ---
