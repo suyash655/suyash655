@@ -1,43 +1,42 @@
-<h1 align="center">Hi, I'm Suyash 👋</h1>
+```js
+const suyash = {
+  role: "ML / Backend Engineer, in progress",
+  code: ["Python", "TypeScript"],
+  buildingWith: ["AWS", "MLOps", "PyTorch", "FastAPI"],
+  believes: "shipped and reliable beats impressive and fragile",
+  currentlyLearning: ["AWS deployment & IaC", "model monitoring & drift detection"],
+};
+```
 
-<p align="center">
-Building systems at the intersection of ML, infra, and applied AI
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/suyash655?tab=repositories"><img src="https://img.shields.io/badge/Repos-7-blue?style=flat-square" /></a>
-  <a href="suyashjay234@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-informational?style=flat-square" /></a>
+## Hi there 👋
+
+I build things that have to survive contact with real data, not just run clean on my machine. Most of my time is in Python, and lately that's pulled me hard toward two things: getting ML systems to actually hold up in production (MLOps — versioning, monitoring, retraining, not just training a model once and walking away), and AWS, because eventually every interesting system needs somewhere real to live.
+
+I'd rather ship something smaller that's genuinely reliable than something impressive that falls over the first time it's stress-tested.
+
+## My Skills
+
+`Python` `TypeScript` `PyTorch` `FastAPI` `NetworkX` `LangGraph` `React`
+
+▸ **Currently deepening:** AWS (CDK, IAM, deployment) · MLOps (experiment tracking, drift monitoring, pipelines that don't need babysitting)
+
+
+## Connect with me
+
+<p>
+  <a href="mailto:suyashjay234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/suyash655"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
-
-### About me
-
-I build things that have to actually work when someone else's data hits them — not just run clean on my machine. Most of my time goes into Python, and lately that's pulled me hard toward two things: getting ML systems to survive contact with production (MLOps — versioning, monitoring, retraining pipelines, not just training a model once and calling it done), and AWS, because at some point every interesting system needs somewhere real to live.
-
-I'd rather ship something smaller that's actually reliable than something impressive that falls over the first time it's stress-tested. That bias shows up across the projects below.
-
----
-
-
-
-### Where my interest is heading
-
-I'm actively going deeper on:
-
-- **AWS** — deployment, IAM, and infra-as-code (CDK), not just spinning up an EC2 instance and hoping
-- **MLOps** — the unglamorous half of ML: experiment tracking, model versioning, monitoring for drift, and pipelines that don't need me babysitting them
-- **Python at scale** — writing it like it has to be maintained by someone who isn't me
-
----
-
-### Tech I work with
-
-`Python` · `TypeScript` · `AWS (CDK)` · `PyTorch` · `FastAPI` · `NetworkX` · `LangGraph` · `React`
-
----
-
-### Contribution activity
+## Contribution activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suyash655/suyash655/output/github-contribution-grid-snake-dark.svg" />
@@ -47,4 +46,4 @@ I'm actively going deeper on:
 
 ---
 
-<p align="center"><i>Open to ML/backend/MLOps internship and full-time opportunities — feel free to reach out.</i></p>
+*Open to ML / backend / MLOps internship and full-time opportunities.*
